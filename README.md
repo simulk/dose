@@ -1,5 +1,5 @@
 # dose
-Netty base file server that supports weak and strong etag
+Netty based file server that supports weak and strong etag
 
 Starting point of the application is `Bootstrap.main`
 
